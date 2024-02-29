@@ -1,0 +1,28 @@
+{
+  "name": "phey-convert-currency",
+  "version": "1.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stormo/phey-convert-currency.git"
+  },
+  "keywords": [
+    "phey-convert-currency"
+  ],
+  "author": "Stormo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stormo/phey-convert-currency/issues"
+  },
+  "homepage": "https://github.com/Stormo/phey-convert-currency#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "commander": "^8.3.0",
+    "phey-random-int": "1.0.0"
+  }
+}
